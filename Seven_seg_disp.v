@@ -1,24 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Gunnar Pederson
-// 
-// Create Date: 05/28/2021 03:13:21 PM
-// Design Name: 
-// Module Name: Seven_seg_disp
-// Project Name: Single 7 segment display decoder
-// Target Devices: Zync 7000 family
-// Tool Versions: Vivado 2020.2
-// Description: drive single 7 seg display from 0-9 and A-F using the first 4 switches
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
 
 module Seven_seg_disp(
     input [3:0] sw,
