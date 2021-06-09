@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Gunnar Pederson
 // 
 // Create Date: 06/09/2021 11:51:59 AM
 // Design Name: 
@@ -9,7 +7,7 @@
 // Project Name: 7 segment controller
 // Target Devices: RealDigital Blackboard
 // Tool Versions: Vivado 2020.2
-// Description: module to control the 4 7-segment displays of the BlackBoard with 4 4-bit inputs
+// Description: module to control the 4 7-segment displays of the BlackBoard with 4 4-bit inputs and a clk signal
 // 
 // Dependencies: 
 // 
